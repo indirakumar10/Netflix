@@ -1,0 +1,123 @@
+
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+.background_img{
+  background-image: url(/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png);
+  padding-left: 5rem;
+}
+.netflix_login-page{
+  height: 50rem;
+  width: 28rem;
+  background-color: black;
+  margin-left: 20rem;
+}
+h1{
+  text-align:200px;
+  color: aliceblue;
+  padding-left:5rem ;
+  padding-top: 4rem;
+}
+.form-control {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 60px;
+  width: 330px;
+  margin-left: 60px;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+.sign-in-btn{
+  border-radius: 5px;
+  color: aliceblue;
+  width: 330px;
+  height: 40px;
+  margin-left: 60px;
+  background-color: rgb(216, 15, 15);
+  margin-top: 20px;
+ 
+
+}
+.nextstep{
+  color: darkgray;
+  flex-wrap: wrap;
+  width: 10px;
+  height: 50px;
+  margin-left: 200px;
+margin-top:30px;
+margin-bottom: 20px;
+}
+.otpbutton{
+  display: block;
+  background-color: #75757570;
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 50px;
+  width: 330px;
+  margin: bottom 20px;;
+  margin-left: 65px;
+  color:azure;
+
+}
+.changepsw{
+  color: azure;
+  margin-left: 150px;
+  padding-top: 2rem;
+
+}
+.remainder-checkbox{
+  color: aliceblue;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+
+.netflix_signup-paragraph-pag{
+  color: aliceblue;
+  padding-left: 50px;
+}
+.netflix{
+  padding-left: 50px;
+  padding-top: 2rem;
+  color: rgb(113, 112, 111);
+}
+h4{
+  padding-left:50px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.antique{
+padding-left: 30px;
+padding-top :3rem;
+  color: rgb(134, 136, 138);
+
+}
+.one{
+  color: aliceblue;
+}
+footer {
+  background: rgb(46, 44, 44);
+  width:37%;
+  height: 20%;
+  
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  color: #fafafa;
+  margin-bottom:-350px; ;
+}
+
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.footer-links {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  gap:35px;
+}
+
